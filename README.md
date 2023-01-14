@@ -1,5 +1,5 @@
 Hi, I’m Groot
 
 ```
-I do everything i like
+I build things to satisfy my imagination. 
 ```
